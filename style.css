@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.button_1 :hover{
+    background-color:rgb(50, 50, 240);
+
+}
+.starting{
+    margin-top: 30px;
+}
+.button_1{
+    /* padding: 50px; */
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.button_2{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.button_3{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.DNB{
+    margin-left: 50px;
+}
+.DNG{
+    margin-left: 50px;
+}
+.HWL{
+    margin-left: 50px;
+}
+
+.sub_1{
+    height: 300px;
+    width: 150px;
+    display:flex ;
+    
+}
+.sub-div-1 {
+    height: 200px;
+    width: 150px;
+}
+
+.sub-div-2{
+    height: 200px;
+    width: 200px;
+    
+}
+.button_2{
+    height: 300px;
+    width: 250px;
+}
+.image img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+}
+.kidz_world{
+    height: 50px;
+    width: 200px;
+}
+.shop_fun{
+    height: 400px;
+    width: 1300px;
+}
+.footer{
+    background-color: black;
+    border:1px solid black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.text{
+    position: relative;
+    padding-top:80px ;
+    padding-right: 100px;
+}
+.krishti{
+    position: absolute;
+    padding-left: 800px;
+    padding-top: 10px;
+}
+.cart-items{
+    display: block;
+    align-items: end;
+}
+.cart-items{
+    padding-right: 800px;
+}
